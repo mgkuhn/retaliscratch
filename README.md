@@ -29,10 +29,10 @@ Modified to connect to Scratch using Remote Sensor Connections protocol.
     See: http://wiki.scratch.mit.edu/wiki/Remote_Sensor_Connections
  2. Execute: sudo python retaliscratch.py
  3. Use broadcast commands from Scratch:
-    fire X  - fires X missiles
-    reset   - resets to lower left corner
-    up X    - go up for X milliseconds
-    down X  - go down for X milliseconds
-    right X - go right for X milliseconds
-    left X  - go left for X milliseconds
+    * fire X  - fires X missiles
+    * reset   - resets to lower left corner
+    * up X    - go up for X milliseconds
+    * down X  - go down for X milliseconds
+    * right X - go right for X milliseconds
+    * left X  - go left for X milliseconds
  4. To shut down, send a keyboard interrupt (Control-C)
