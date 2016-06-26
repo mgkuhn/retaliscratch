@@ -29,6 +29,8 @@
 # Retaliscratch - operate missile launcher from Scratch
 # http://scratch.mit.edu
 #
+# Install prerequisites: pip install scratchpy pyusb
+#
 # To use:
 # 1) Start Scratch, enable Remote Sensor Connections.
 #    See: http://wiki.scratch.mit.edu/wiki/Remote_Sensor_Connections
